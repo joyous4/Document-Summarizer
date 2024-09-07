@@ -2,8 +2,6 @@
 
 It uses the LangChain4J framework to interact with OpenAI LLM, AstraDB to store the embeddings, and Spring Boot as the framework to create REST API.
 
-You can find the application running against Ollama with Llama3 and PGVector Embedding store in the branch - `ollama_with_pgvector`
-
 Here is the question I asked our application
 ```text
 What is cassandra, why to use Cassandra ?
